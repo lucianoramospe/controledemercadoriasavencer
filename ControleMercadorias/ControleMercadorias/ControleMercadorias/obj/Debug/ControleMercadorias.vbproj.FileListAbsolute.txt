@@ -1,0 +1,13 @@
+C:\ControleMercadorias\ControleMercadorias\ControleMercadorias\bin\Debug\ControleMercadorias.exe.config
+C:\ControleMercadorias\ControleMercadorias\ControleMercadorias\bin\Debug\ControleMercadorias.exe
+C:\ControleMercadorias\ControleMercadorias\ControleMercadorias\bin\Debug\ControleMercadorias.pdb
+C:\ControleMercadorias\ControleMercadorias\ControleMercadorias\bin\Debug\ControleMercadorias.xml
+C:\ControleMercadorias\ControleMercadorias\ControleMercadorias\obj\Debug\ControleMercadorias.vbproj.AssemblyReference.cache
+C:\ControleMercadorias\ControleMercadorias\ControleMercadorias\obj\Debug\ControleMercadorias.Form1.resources
+C:\ControleMercadorias\ControleMercadorias\ControleMercadorias\obj\Debug\ControleMercadorias.Resources.resources
+C:\ControleMercadorias\ControleMercadorias\ControleMercadorias\obj\Debug\ControleMercadorias.vbproj.GenerateResource.cache
+C:\ControleMercadorias\ControleMercadorias\ControleMercadorias\obj\Debug\ControleMercadorias.vbproj.CoreCompileInputs.cache
+C:\ControleMercadorias\ControleMercadorias\ControleMercadorias\obj\Debug\ControleMercadorias.exe
+C:\ControleMercadorias\ControleMercadorias\ControleMercadorias\obj\Debug\ControleMercadorias.xml
+C:\ControleMercadorias\ControleMercadorias\ControleMercadorias\obj\Debug\ControleMercadorias.pdb
+C:\ControleMercadorias\ControleMercadorias\ControleMercadorias\obj\Debug\ControleMercadorias.exe.config

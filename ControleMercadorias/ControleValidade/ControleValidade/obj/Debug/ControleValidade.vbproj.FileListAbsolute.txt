@@ -1,0 +1,13 @@
+C:\ControleMercadorias\ControleValidade\ControleValidade\bin\Debug\ControleValidade.exe.config
+C:\ControleMercadorias\ControleValidade\ControleValidade\bin\Debug\ControleValidade.exe
+C:\ControleMercadorias\ControleValidade\ControleValidade\bin\Debug\ControleValidade.pdb
+C:\ControleMercadorias\ControleValidade\ControleValidade\bin\Debug\ControleValidade.xml
+C:\ControleMercadorias\ControleValidade\ControleValidade\obj\Debug\ControleValidade.vbproj.AssemblyReference.cache
+C:\ControleMercadorias\ControleValidade\ControleValidade\obj\Debug\ControleValidade.Form1.resources
+C:\ControleMercadorias\ControleValidade\ControleValidade\obj\Debug\ControleValidade.Resources.resources
+C:\ControleMercadorias\ControleValidade\ControleValidade\obj\Debug\ControleValidade.vbproj.GenerateResource.cache
+C:\ControleMercadorias\ControleValidade\ControleValidade\obj\Debug\ControleValidade.vbproj.CoreCompileInputs.cache
+C:\ControleMercadorias\ControleValidade\ControleValidade\obj\Debug\ControleValidade.exe
+C:\ControleMercadorias\ControleValidade\ControleValidade\obj\Debug\ControleValidade.xml
+C:\ControleMercadorias\ControleValidade\ControleValidade\obj\Debug\ControleValidade.pdb
+C:\ControleMercadorias\ControleValidade\ControleValidade\obj\Debug\ControleValidade.exe.config

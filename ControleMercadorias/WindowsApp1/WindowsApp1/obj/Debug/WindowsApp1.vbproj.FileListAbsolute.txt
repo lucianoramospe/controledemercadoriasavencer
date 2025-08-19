@@ -1,0 +1,13 @@
+C:\ControleMercadorias\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\ControleMercadorias\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\ControleMercadorias\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\ControleMercadorias\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\ControleMercadorias\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\ControleMercadorias\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\ControleMercadorias\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\ControleMercadorias\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\ControleMercadorias\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\ControleMercadorias\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\ControleMercadorias\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\ControleMercadorias\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\ControleMercadorias\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe.config
